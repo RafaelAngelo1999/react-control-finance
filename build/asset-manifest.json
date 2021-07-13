@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/rafaelangelo1999.github.io/react-finance-control/static/css/main.d01f934f.chunk.css",
+    "main.js": "/rafaelangelo1999.github.io/react-finance-control/static/js/main.c6179063.chunk.js",
+    "main.js.map": "/rafaelangelo1999.github.io/react-finance-control/static/js/main.c6179063.chunk.js.map",
+    "runtime-main.js": "/rafaelangelo1999.github.io/react-finance-control/static/js/runtime-main.5d39c92c.js",
+    "runtime-main.js.map": "/rafaelangelo1999.github.io/react-finance-control/static/js/runtime-main.5d39c92c.js.map",
+    "static/js/2.27e85355.chunk.js": "/rafaelangelo1999.github.io/react-finance-control/static/js/2.27e85355.chunk.js",
+    "static/js/2.27e85355.chunk.js.map": "/rafaelangelo1999.github.io/react-finance-control/static/js/2.27e85355.chunk.js.map",
+    "index.html": "/rafaelangelo1999.github.io/react-finance-control/index.html",
+    "static/css/main.d01f934f.chunk.css.map": "/rafaelangelo1999.github.io/react-finance-control/static/css/main.d01f934f.chunk.css.map",
+    "static/js/2.27e85355.chunk.js.LICENSE.txt": "/rafaelangelo1999.github.io/react-finance-control/static/js/2.27e85355.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5d39c92c.js",
+    "static/js/2.27e85355.chunk.js",
+    "static/css/main.d01f934f.chunk.css",
+    "static/js/main.c6179063.chunk.js"
+  ]
+}
